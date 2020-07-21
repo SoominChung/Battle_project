@@ -1,4 +1,8 @@
 # Battle_project
+
+<img width="970" alt="1" src="https://user-images.githubusercontent.com/62084163/88015067-5d89dd00-cb5b-11ea-9057-f7fd180fdaf9.png">
+<img width="960" alt="2" src="https://user-images.githubusercontent.com/62084163/88015068-5f53a080-cb5b-11ea-8b07-41fb5593c783.png">
+
 <배틀 동작 시나리오>
 1. 플레이어 2명이서 한 쪽의 hp가 0 미만이 될 때 까지 싸운다. 
 2. 서로 돌아가면서 각자의 공격을 행한다. 
