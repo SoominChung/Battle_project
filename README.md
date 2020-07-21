@@ -92,8 +92,10 @@ shootable : 쏘기()
 throwable : 던지기()
 
 
+<window 구현 이미지 (자세한 영상은 battle구현영상_window 참고)>
+![image](https://user-images.githubusercontent.com/62084163/88015665-b6a64080-cb5c-11ea-9be1-f0fcc5493dd3.png)
 
-
+<설계도>
 <img width="901" alt="44" src="https://user-images.githubusercontent.com/62084163/88015512-531c1300-cb5c-11ea-98a5-ac0e8664325b.png">
 <img width="903" alt="33" src="https://user-images.githubusercontent.com/62084163/88015515-544d4000-cb5c-11ea-9c25-757102d41d6b.png">
 
