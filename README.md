@@ -1,5 +1,8 @@
 # Battle_project
 
+[게임 구현 이미지 -자세한 영상은 'battle구현영상_window' 참고]
+![image](https://user-images.githubusercontent.com/62084163/88015665-b6a64080-cb5c-11ea-9be1-f0fcc5493dd3.png)
+
 <배틀 동작 시나리오>
 1. 플레이어 2명이서 한 쪽의 hp가 0 미만이 될 때 까지 싸운다. 
 2. 서로 돌아가면서 각자의 공격을 행한다. 
@@ -93,11 +96,9 @@ throwable : 던지기()
 
 
 
-[게임 구현 이미지 -자세한 영상은 'battle구현영상_window' 참고]
-![image](https://user-images.githubusercontent.com/62084163/88015665-b6a64080-cb5c-11ea-9be1-f0fcc5493dd3.png)
-
 
 [설계도]
+
 <img width="901" alt="44" src="https://user-images.githubusercontent.com/62084163/88015512-531c1300-cb5c-11ea-98a5-ac0e8664325b.png">
 <img width="903" alt="33" src="https://user-images.githubusercontent.com/62084163/88015515-544d4000-cb5c-11ea-9c25-757102d41d6b.png">
 
