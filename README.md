@@ -1,5 +1,10 @@
 # Battle_project
 
+* src 파일 : Weapon, Main, 각 캐릭터,interface, 게임 윈도우 등 모든 코드 첨부.
+* 주요코드설명.pdf : 각 클래스의 중요한 메소드나 특징들에 관한 설명. 
+* battle구현영상_window.mp4 : 배틀게임이 동작되는 영상.
+
+
 [게임 구현 이미지 -자세한 영상은 'battle구현영상_window' 참고]
 ![image](https://user-images.githubusercontent.com/62084163/88015665-b6a64080-cb5c-11ea-9be1-f0fcc5493dd3.png)
 
